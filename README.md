@@ -1,7 +1,3 @@
-Great! I'll draft a README file for the MERN Book Store repository. Here's a template that includes sections for an introduction, installation, usage, contributing, license, and contact information.
-
----
-
 # MERN Book Store
 
 A full-stack web application for managing a book store, built using MongoDB, Express.js, React, and Node.js (MERN stack).
@@ -111,7 +107,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Sakith Thewmika - [sakiththewmika@gmail.com](mailto:sakiththewmika@gmail.com)
 
 Project Link: [https://github.com/sakiththewmika/MERN-Book-Store](https://github.com/sakiththewmika/MERN-Book-Store)
-
----
-
-Feel free to modify this template according to your project's specific needs.
